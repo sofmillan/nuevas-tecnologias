@@ -33,9 +33,6 @@ print(users["user3"])
 
 
 
-#Usando diccionarios y funciones en el que creemos un producto con los siguientes claves
-#id, nomnbre, costo, cantidad, margen de ganancia(porcentaje)
-#almacenar los productos con dos campos adicionales calculados
-#precio de venta =  costo/1-mg
-#valor de inventario = cantidad * costo/1
-#almacenar los productos dentro de un diccionario de diccionarios
+users["user3"]["name"] = "Charisma"
+
+print(users["user3"])
