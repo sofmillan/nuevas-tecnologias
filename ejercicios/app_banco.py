@@ -1,4 +1,7 @@
 # Inicializar un diccionario vacío para almacenar la información de los empleados.
+
+#23-09-2023
+
 datos_empleados = {
     "empleado1": {
         "id": 1,
